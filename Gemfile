@@ -8,6 +8,9 @@ gem 'twitter-bootstrap-rails'
 # Authentication
 gem 'devise'
 
+# debugging
+gem 'pry'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
